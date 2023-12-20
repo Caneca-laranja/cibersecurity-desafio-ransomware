@@ -18,6 +18,10 @@ Essa imagem foi escolhida, porque ultimamente estou jogando o jogo e o personage
 
 O Encrypter.py criptografa a imagem utilizando a criptografia AES, depois pode ser descriptografado utilizando o Decrypter.py que irá reverter 
 
+## Extra
 
+- > Não sei remover o arquivo Teste.txt <br>
+- > Os arquivos que são utilizado são o encrypt.py decrypt.py e ED-E.jpeg <br>
+- > Tomar cuidado pois em sistemas operacionais Windows tendem a salvar a imagem em formato .jfif ao invés de .jpeg <br>
 
 
